@@ -1,1 +1,1 @@
-# Unsupervised-Learning
+This project is very new to me, trade and ahead is about financial services and unsupervised learning is also new to me, because it gives me an insights of unobserved parameter and suddenly I realize, every parameter is important even though we do not have intention to study its modeling, and every parameters tell you a story.  This is fun learning of k-means clustering and hierarchical clustering.
